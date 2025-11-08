@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ajeygore
 - 👀 I’m interested in Technology specially networking, distributed computing and data science
-- 🌱 I’m currently learning data science and how to write models :-)
-- 💞️ I’m looking to collaborate on data science and ML
+- 🌱 I’m currently learning about human languages
+- 💞️ I’m looking to collaborate on building something 
 - 📫 You can reach me on @ajeygore on twitter
 
 <!---
